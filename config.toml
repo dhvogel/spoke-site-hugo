@@ -9,9 +9,9 @@ theme = "hugo-elate-theme"
   custom_css = ["css/custom1.css", "css/custom2.css"]
 
   # Meta
-  author = ""
-  description = ""
-  email = ""
+  author = "Dan Vogel"
+  description = "Spoke Bikes Site"
+  email = "dhvogel2468@gmail.com"
   # Navigation
   [params.navigation]
     brand = "Spoke"
